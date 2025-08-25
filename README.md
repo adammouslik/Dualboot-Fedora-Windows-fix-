@@ -20,6 +20,7 @@ Instead, I got errors such as:
     /boot/EFI/fedora/grub.cfg not found
     Windows Boot Manager failed to start
 
+![Windows Boot Manager Error](windows_boot_manager_error.jpg)
 ------------------------------------------------------------------------
 
 🛠️ Solution
