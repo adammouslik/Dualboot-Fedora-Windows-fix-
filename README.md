@@ -1,7 +1,7 @@
 # Dualboot-Fedora-Windows-fix-
 Step-by-step guide to repair windows bootloader after installing Fedora (UEFI + GRUB).
 Windows Boot Repair after Fedora Installation
-
+wndowsfedora.jpg
 This repository documents the process I used to repair a broken Windows
 bootloader after installing Fedora on my PC.
 Since many people face the same issue (dual-boot problems, EFI
