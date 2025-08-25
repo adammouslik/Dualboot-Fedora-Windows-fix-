@@ -28,7 +28,7 @@ Here is the step-by-step solution I used.
 
 I created a bootable Windows installation USB using Rufus (on another
 PC).
-⚠️ Fedora Media Writer did not work properly for this case.
+⚠️ Fedora Media Writer do not work properly for this case. I tried Ventoy but didnit worked for me. Try with WoeUSB. 
 
 2. Boot into Windows Installer
 
