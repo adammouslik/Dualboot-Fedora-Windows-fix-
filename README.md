@@ -5,7 +5,7 @@ Windows Boot Repair after Fedora Installation
 This repository documents the process I used to repair a broken Windows
 bootloader after installing Fedora on my PC.
 
-wndowsfedora.jpg
+![Windows Fedora](wndowsfedora.jpg)
 Since many people face the same issue (dual-boot problems, EFI
 overwritten, etc.), I decided to write down the exact steps that worked
 for me. After anything, check that al Windows files are conserved in the HDD, if they still there, this may work for you.
